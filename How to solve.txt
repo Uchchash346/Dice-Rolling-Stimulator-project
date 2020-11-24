@@ -1,0 +1,5 @@
+1. Understand the program
+2. Think
+3. Algorithm
+4. Main logic and start programming
+5. Modify

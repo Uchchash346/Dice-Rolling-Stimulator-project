@@ -1,0 +1,9 @@
+1. Dice
+2. Random face no
+3. Lopping
+
+Main Algorithm-->
+1. Develop Random Number
+2. Check the no
+3. Print the Number
+4. Lopping
